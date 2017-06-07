@@ -5,7 +5,8 @@
 
 My keymap Configuration for my [RAMA m10-a Macropad](https://rama.works/m10-a/).
 
-![My M10a](https://goo.gl/photos/m1Bk7bpSX6oaBXVC8 "My M10a")
+![My M10a](http://i.imgur.com/jqfwYBM.jpg "My M10a")
+
 
 ## Configurator 
 
